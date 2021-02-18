@@ -1,0 +1,39 @@
+{
+  "name": "youclickme",
+  "short_name": "youclickme",
+  "start_url": "www.youclickme.eu.org",
+  "display": "standalone",
+   "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-U1ak4BG0N2c/YC7U_m7EZFI/AAAAAAAABJk/rMI2XMG8boEC5IeAR6eBsZ4eH_4UmVfHACLcBGAsYHQ/s0/favicon-16x16.png",
+    "sizes": "16x16",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LathnM1Om7w/YC7T-fwxOwI/AAAAAAAABJM/kN8Ge0RDHmoU_wV05rxTWcW8Umw1FIwbgCLcBGAsYHQ/s0/favicon-32x32.png",
+    "sizes": "32x32",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-mQeIdnVwSGQ/YC7VXcqQ1DI/AAAAAAAABJs/Yq95d-miM3cDdOPThIjZ_XsfJdgLCB_hACLcBGAsYHQ/s0/favicon.ico",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GUIWoXqqcJk/YC7UiFbbaVI/AAAAAAAABJY/AxTEwsgMRhk1Syt90BpV1IvHvmeTGrjCgCLcBGAsYHQ/s0/apple-touch-icon.png",
+    "sizes": "180x180",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-UXbBdVd6Cgc/YC7TfGefC1I/AAAAAAAABJA/x2jn1UMwf7QRGwdVDQ9SK_alRx5maiu3QCLcBGAsYHQ/s0/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9R6Km2sijF4/YC7Ty1oBe1I/AAAAAAAABJI/gSGLrYnzE1Y9QUifwnSJw7sXed8OsHE2wCLcBGAsYHQ/s320/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
