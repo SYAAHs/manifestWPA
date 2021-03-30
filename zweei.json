@@ -1,7 +1,7 @@
 {
-  "name": "youclickme",
-  "short_name": "youclickme",
-  "start_url": "www.youclickme.eu.org",
+  "name": "ZWEEI",
+  "short_name": "ZWEEI.DEV",
+  "start_url": "zweei-dev.blogspot.com",
   "display": "standalone",
    "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF",
