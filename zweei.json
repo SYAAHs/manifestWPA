@@ -1,16 +1,39 @@
-<link href="https://raw.githubusercontent.com/syahs-dev/manifestWPA/main/zweei.json" rel="manifest"/> <link alt="syahs-dev" href="https://1.bp.blogspot.com/-iFACY-ofR9k/YGNv4ududlI/AAAAAAAAABk/fE91Y3I6lkw0Q5B5ANj3p-PoLkdv8vI7ACLcBGAsYHQ/s180/apple-touch-icon.png" rel="apple-touch-icon" />
-<link alt="zweei" href="https://1.bp.blogspot.com/-fYqHEBdf54U/YGNv5ZAe48I/AAAAAAAAABs/cZsHa-LHPmYbswdaIj3xj4AuuB_MIKL_ACLcBGAsYHQ/s16/favicon-16x16.png" rel="apple-touch-icon" sizes="16x16" />
-<link alt="zweei" href="https://1.bp.blogspot.com/-wBV8gnWwvnc/YGNv54R2H8I/AAAAAAAAABw/CKPCTByU7_ARqIcUFcYNKQJa_b_Sw1UawCLcBGAsYHQ/s32/favicon-32x32.png" rel="apple-touch-icon" sizes="32x32" />
-<link alt="zweei" href="https://1.bp.blogspot.com/-r-h-zc9SQKQ/YGNv6iDPE3I/AAAAAAAAAB0/TFa9l0coHHkLWurnxSfG2m_cvJQFcduoACLcBGAsYHQ/s48/favicon.ico" rel="apple-touch-icon" sizes="48x48" />
-<link alt="zweei" href="https://1.bp.blogspot.com/-j0lLdzgj9cQ/YGNv4qYuglI/AAAAAAAAABg/KPgCjt13LmUaJRec4ELS5eRjJvsd0fuDACLcBGAsYHQ/s192/android-chrome-192x192.png" rel="apple-touch-icon" sizes="192x192" />
-<link alt="zweei" href="https://1.bp.blogspot.com/-GIoFfNbgJaU/YGNv44mt0qI/AAAAAAAAABo/3dyAbgS7Av4jZpXd2E9iKXvS330OhM7_QCLcBGAsYHQ/s512/android-chrome-512x512.png" rel="apple-touch-icon" sizes="512x512" />
-<link alt="zweei" href="https://1.bp.blogspot.com/-iFACY-ofR9k/YGNv4ududlI/AAAAAAAAABk/fE91Y3I6lkw0Q5B5ANj3p-PoLkdv8vI7ACLcBGAsYHQ/s180/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180" />
-
-<meta name="apple-mobile-web-app-capable" content="yes"/>
-<meta name="apple-mobile-web-app-status-bar-style" content="#FFFFFF"/>
-<meta name="apple-mobile-web-app-title" content="zweei"/>
-<link rel="apple-touch-icon" href="https://1.bp.blogspot.com/-r-h-zc9SQKQ/YGNv6iDPE3I/AAAAAAAAAB0/TFa9l0coHHkLWurnxSfG2m_cvJQFcduoACLcBGAsYHQ/s48/favicon.ico"/>
-
-<meta name="apple-mobile-web-app-title" expr:content="data:blog.title"/>
-
-<meta name="theme-color" content="#FFFFFF" />
+{
+  "name": "youclickme",
+  "short_name": "youclickme",
+  "start_url": "www.youclickme.eu.org",
+  "display": "standalone",
+   "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "icons": [{
+    "src": "href="https://1.bp.blogspot.com/-fYqHEBdf54U/YGNv5ZAe48I/AAAAAAAAABs/cZsHa-LHPmYbswdaIj3xj4AuuB_MIKL_ACLcBGAsYHQ/s16/favicon-16x16.png",
+    "sizes": "16x16",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "href="https://1.bp.blogspot.com/-wBV8gnWwvnc/YGNv54R2H8I/AAAAAAAAABw/CKPCTByU7_ARqIcUFcYNKQJa_b_Sw1UawCLcBGAsYHQ/s32/favicon-32x32.png",
+    "sizes": "32x32",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "href="https://1.bp.blogspot.com/-r-h-zc9SQKQ/YGNv6iDPE3I/AAAAAAAAAB0/TFa9l0coHHkLWurnxSfG2m_cvJQFcduoACLcBGAsYHQ/s48/favicon.ico",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "href="https://1.bp.blogspot.com/-iFACY-ofR9k/YGNv4ududlI/AAAAAAAAABk/fE91Y3I6lkw0Q5B5ANj3p-PoLkdv8vI7ACLcBGAsYHQ/s180/apple-touch-icon.png",
+    "sizes": "180x180",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "href="https://1.bp.blogspot.com/-j0lLdzgj9cQ/YGNv4qYuglI/AAAAAAAAABg/KPgCjt13LmUaJRec4ELS5eRjJvsd0fuDACLcBGAsYHQ/s192/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "href="https://1.bp.blogspot.com/-GIoFfNbgJaU/YGNv44mt0qI/AAAAAAAAABo/3dyAbgS7Av4jZpXd2E9iKXvS330OhM7_QCLcBGAsYHQ/s512/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
