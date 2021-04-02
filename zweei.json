@@ -1,7 +1,8 @@
 {
   "name": "ZWEEI",
   "short_name": "ZWEEI.DEV",
-  "start_url": "zweei-dev.blogspot.com",
+  "scope": "https://drive.google.com/"
+  "start_url": "https://zweei-dev.blogspot.com",
   "display": "standalone",
    "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF",
