@@ -1,7 +1,7 @@
 {
   "name": "ZWEEI",
   "short_name": "ZWEEI.DEV",
-  "scope": "https://zweei-dev.blogspot.com/",
+  "scope": "https://zweei-dev.blogspot.com",
   "start_url": "https://zweei-dev.blogspot.com",
   "display": "standalone",
    "background_color": "#FFFFFF",
